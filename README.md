@@ -143,8 +143,24 @@
 		</a>
 	</code>
   <code>
-		<a style="text-decoration: none" href="https://in.mathworks.com/" target="_blank">
-			<img src="https://png.pngitem.com/pimgs/s/511-5117629_logo-matlab-hd-png-download.png" width="40" height="40" />
+		<a style="text-decoration: none" href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+			<img
+				src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png"
+				alt="c++"
+				width="40"
+				height="40"
+			/>
+		</a>
+	</code>
+	
+<code>
+		<a style="text-decoration: none" href="https://www.mysql.com/" target="_blank">
+			<img
+				src="https://pngimg.com/uploads/mysql/mysql_PNG1.png"
+				alt="my sql"
+				width="40"
+				height="40"
+			/>
 		</a>
 	</code>
 </p>
