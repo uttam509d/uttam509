@@ -25,14 +25,13 @@
 		</a>
 	</code>
 	<code>
-<!-- 		<a style="text-decoration: none" href="https://www.interviewbit.com/profile/priyanshu-uttam" target="_blank">
+	<a style="text-decoration: none" href="https://www.interviewbit.com/profile/priyanshu-uttam" target="_blank">
 			<img
 				src="https://i0.wp.com/blog.interviewbit.com/wp-content/uploads/2017/11/logo-transparent.png?fit=1024%2C1024&ssl=1"
 				alt="html5"
 				width="40"
 				height="40"
 			/>
-		</a> -->
 	</code>
 </p>
 
