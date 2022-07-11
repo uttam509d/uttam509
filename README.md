@@ -41,7 +41,7 @@
 		<a style="text-decoration: none" href="https://www.linkedin.com/in/priyanshu-uttam-24a44b193/" target="blank">
 			<img
 				src="https://www.loginhit.com.ng/wp-content/uploads/2019/09/LinkedIn-1.jpg"
-				alt="Gautam kumar linkedin"
+				alt="Priyanshu uttam linkedin"
 				height="40"
 				width="40"
 			/>
@@ -50,8 +50,8 @@
 	<code>
 		<a style="text-decoration: none" href="https://priyanshuuttam.netlify.app/" target="blank">
 			<img
-				src="https://www.loginhit.com.ng/wp-content/uploads/2019/09/LinkedIn-1.jpg"
-				alt="Gautam kumar linkedin"
+				src="https://media.istockphoto.com/vectors/world-wide-web-icon-vector-id1215492483"
+				alt="Priyanshu uttam web"
 				height="40"
 				width="40"
 			/>
@@ -61,7 +61,7 @@
 		<a style="text-decoration: none" href="mailto:puoffcamp1907@gmail.com" target="blank">
 			<img
 				src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
-				alt="gautam kumar gmail"
+				alt="Priyanshu uttam gmail"
 				height="40"
 				width="40"
 			/>
