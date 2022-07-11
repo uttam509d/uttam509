@@ -1,6 +1,7 @@
 
 <h2 align="center">:pray:Namaste, I am Priyanshu Uttam</h2>
 <p align="center">B.Tech CSE @ <strong>IIT Indore</strong></p>
+<p align="center"><strong>2019 - 2023 </strong></p>
 <hr>
 <p align="center">My Data Structures and Algorithms Coding Platforms</p>
 <p align="center">
