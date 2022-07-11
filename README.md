@@ -1,12 +1,11 @@
 
 <h2 align="center">:pray:Namaste, I am Priyanshu Uttam</h2>
-<p align="center">B.Tech EE @ <strong>IIT Indore</strong></p>
-<p align="center">MERN Stack Developer</p>
+<p align="center">B.Tech CSE @ <strong>IIT Indore</strong></p>
 <hr>
 <p align="center">My Data Structures and Algorithms Coding Platforms</p>
 <p align="center">
 	<code>
-		<a style="text-decoration: none" href="https://leetcode.com/gk2002/" target="_blank">
+		<a style="text-decoration: none" href="https://leetcode.com/cse190001048/" target="_blank">
 			<img
 				src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
 				alt="html5"
@@ -16,7 +15,7 @@
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="https://auth.geeksforgeeks.org/user/gautamkumarsingh212/practice/" target="_blank">
+		<a style="text-decoration: none" href="https://auth.geeksforgeeks.org/user/rahuluttam938/practice/" target="_blank">
 			<img
 				src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png"
 				alt="html5"
@@ -26,9 +25,9 @@
 		</a>
 	</code>
 	<code>
-<!-- 		<a style="text-decoration: none" href="https://www.codechef.com/users/bsg123" target="_blank">
+<!-- 		<a style="text-decoration: none" href="https://www.interviewbit.com/profile/priyanshu-uttam" target="_blank">
 			<img
-				src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4"
+				src="https://i0.wp.com/blog.interviewbit.com/wp-content/uploads/2017/11/logo-transparent.png?fit=1024%2C1024&ssl=1"
 				alt="html5"
 				width="40"
 				height="40"
@@ -40,7 +39,7 @@
 <h2 align="center">If You Want To Collaborate, I'm Availabe On</h2>
 <p align="center">
 	<code>
-		<a style="text-decoration: none" href="https://www.linkedin.com/in/gautam-kumar-454a841a5/" target="blank">
+		<a style="text-decoration: none" href="https://www.linkedin.com/in/priyanshu-uttam-24a44b193/" target="blank">
 			<img
 				src="https://www.loginhit.com.ng/wp-content/uploads/2019/09/LinkedIn-1.jpg"
 				alt="Gautam kumar linkedin"
@@ -50,7 +49,17 @@
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="mailto:gautamkumaroffcmps@gmail.com" target="blank">
+		<a style="text-decoration: none" href="https://priyanshuuttam.netlify.app/" target="blank">
+			<img
+				src="https://www.loginhit.com.ng/wp-content/uploads/2019/09/LinkedIn-1.jpg"
+				alt="Gautam kumar linkedin"
+				height="40"
+				width="40"
+			/>
+		</a>
+	</code>
+	<code>
+		<a style="text-decoration: none" href="mailto:puoffcamp1907@gmail.com" target="blank">
 			<img
 				src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
 				alt="gautam kumar gmail"
