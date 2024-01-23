@@ -83,16 +83,26 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" />
     </a>
   </code>
+  <code>
+    <a style="text-decoration: none" href="https://www.python.org/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a style="text-decoration: none" href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40" />
+    </a>
+  </code>
+  <code>
+    <a style="text-decoration: none" href="https://www.mysql.com/" target="_blank">
+      <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL" width="40" height="40" />
+    </a>
+  </code>
+</p>
 
 <hr />
 <br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uttam509&show_icons=true&locale=en&theme=radical&count_private=true" alt="Priyanshu Uttam" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttam509&theme=tokyonight" alt="Priyanshu Uttam" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uttam509&show_icons=true&locale=en&layout=compact&theme=radical" alt="Priyanshu Uttam" />
-</p>
+</
